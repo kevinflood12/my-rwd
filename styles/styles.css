@@ -1,0 +1,41 @@
+/**
+ * ==========================================================================
+   styles.css -- Global styles for the MyRWD website
+   ========================================================================== 
+*
+* Created April 2, 2014
+* Authored by Kevin Flood
+*
+*/
+
+/* ----- Basic Styling ----- */
+
+body {
+  background-color: lightblue}
+
+
+#page-wrapper{
+  background-color:white;
+  width: 768px;
+  margin: auto;
+  }
+
+#content{
+  background-color:#f7f2da;
+  padding: 0em 1em;
+  margin-bottom: 10px;
+ 
+ }
+  
+  nav{
+  background-color:gray;
+  padding: 0em;
+  margin: 0em; 
+}
+
+  nav ul {
+  
+  padding: 3px; 10px;
+  list-style-type: none;
+}
+  
